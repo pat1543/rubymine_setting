@@ -1,0 +1,7 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig host="sshgw.nexlink2.jp" id="94a3b55d-30ac-4646-93f9-f447fc1650e0" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="dev.shimatani_seiji" />
+    </configs>
+  </component>
+</application>
