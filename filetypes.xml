@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="ErrorUtility.rb" type="PLAIN_TEXT" />
       <mapping pattern="previews" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
